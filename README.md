@@ -5,6 +5,19 @@
   <a  href="https://www.linkedin.com/in/gustavo-rodrigues-da-silva/" target="_blank" style="border-radius: 20px; margin-bottom: 15px"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+##  
+
+### Sobre mim:
+
+- 🔭 Atualmente, estou trabalhando na GhFly como estagiário em Business Intelligence
+- 🌱 Estou na metade do Bacharelado em Matemática na UFPR, cursando disciplinas como Otimização 1, Análise 2, Cálculo de Probabilidades e Equações Diferenciais e Aplicações
+- 📚 Possuo uma Iniciação Científica em andamento com o tema de Redes Neurais Artificiais, com foco nas redes densas e convolucionais e aplicações em imagens e textos
+- 📆 Estou seguindo um cronograma de estudos para ter a base de conhecimentos necessária para um Cientista de Dados; criarei repositórios aqui no Github para guardar os notebooks desses estudos e postar os resumos dos assuntos
+- 💬 Fique à vontade para me contatar pelo LinkedIn ou pelo Gmail caso tenha alguma dúvida sobre os meus projetos; sugestões também são muito bem-vindas
+- 😄 Pronomes: ele/dele
+
+##
+
 <!--
 **gustavor10silva/gustavor10silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
