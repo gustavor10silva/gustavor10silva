@@ -20,8 +20,8 @@
 
 <div>
   <a href="https://github.com/gustavor10silva">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavor10silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavor10silva&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gustavor10silva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavor10silva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
 ##
@@ -30,6 +30,6 @@
  
 <div>
 
-![Snake animation](https://github.com/lucasrocha729/lucasrocha729/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gustavor10silva/gustavor10silva/blob/output/github-contribution-grid-snake.svg)
 
 </div>
