@@ -9,9 +9,9 @@
 
 ### Sobre mim:
 
-- 🔭 Atualmente, estou trabalhando na GhFly como Cientista de Dados Jr.
-- 🌱 Estou na metade do Bacharelado em Matemática na UFPR, cursando disciplinas como Otimização 1, Cálculo 3, Clusterização, Física 3 e Geometria Não Euclidiana
-- 📚 Possuo uma Iniciação Científica em andamento com o tema de Redes Neurais Artificiais, com foco nas redes densas e convolucionais e aplicações em imagens e textos
+- 🔭 Atualmente, estou trabalhando no Itaú Unibanco como Estagiário em Análise de Dados.
+- 🌱 Estou na metade do Bacharelado em Matemática na UFPR, cursando disciplinas como Análise 2, Análise 3, Probabilidades, Equações Diferenciais, Geometria Euclidiana e Educação Estatística e Financeira
+- 📚 Possuo uma Iniciação Científica em andamento na área de Ciência de Dados, com foco em modelos de aprendizagem de máquina e aplicações em tarefas de regressão, classificação e clusterização, além de aplicações de redes neurais na classificação de imagens e textos;
 - 📆 Estou seguindo um cronograma de estudos para ter a base de conhecimentos necessária para um Cientista de Dados; criarei repositórios aqui no Github para guardar os notebooks desses estudos e postar os resumos dos assuntos
 - 💬 Fique à vontade para me contatar pelo LinkedIn ou pelo Gmail caso tenha alguma dúvida sobre os meus projetos; sugestões também são muito bem-vindas
 - 😄 Pronomes: ele/dele
