@@ -9,7 +9,7 @@
 
 ### Sobre mim:
 
-- 🔭 Atualmente, estou trabalhando no Itaú Unibanco como Estagiário em Análise de Dados.
+- 🔭 Atualmente, estou trabalhando no Itaú Unibanco como Analista de Dados Jr.
 - 🌱 Estou na metade do Bacharelado em Matemática na UFPR, cursando disciplinas como Análise 2, Análise 3, Probabilidades, Equações Diferenciais, Geometria Euclidiana e Educação Estatística e Financeira
 - 📚 Possuo uma Iniciação Científica em andamento na área de Ciência de Dados, com foco em modelos de aprendizagem de máquina e aplicações em tarefas de regressão, classificação e clusterização, além de aplicações de redes neurais na classificação de imagens e textos;
 - 📆 Estou seguindo um cronograma de estudos para ter a base de conhecimentos necessária para um Cientista de Dados; criarei repositórios aqui no Github para guardar os notebooks desses estudos e postar os resumos dos assuntos
