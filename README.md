@@ -14,7 +14,6 @@
 - 📚 Possuo uma Iniciação Científica concluída na área de Ciência de Dados, onde estudei modelos de aprendizagem de máquina e aplicações em tarefas de regressão, classificação e clusterização, além de aplicações de redes neurais na classificação de imagens e textos;
 - 📆 Estou seguindo um cronograma de estudos para ser um Cientista de Dados; criarei repositórios aqui no Github para guardar os notebooks desses estudos e postar os resumos dos assuntos
 - 💬 Fique à vontade para me contatar pelo LinkedIn ou pelo Gmail caso tenha alguma dúvida sobre os meus projetos; sugestões também são muito bem-vindas
-- 😄 Pronomes: ele/dele
 
 ##
 
